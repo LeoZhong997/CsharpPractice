@@ -2,6 +2,10 @@ using System;
 
 namespace BaseClassApplication
 {
+    class Triangle
+    {
+        
+    }
     class Rectangle
     {
         protected double length;
