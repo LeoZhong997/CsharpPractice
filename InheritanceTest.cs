@@ -36,7 +36,7 @@ namespace InheritanceApplication
     
     public class InheritanceTest
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Rectangle rect = new Rectangle();
             int area;
